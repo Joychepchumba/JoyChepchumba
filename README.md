@@ -67,13 +67,13 @@ Beyond research, I support undergraduate software engineering education, build f
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AichaMbongo&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoyChepchumba&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AichaMbongo&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyChepchumba&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AichaMbongo&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joychepchumba&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ Beyond research, I support undergraduate software engineering education, build f
 
 ## 🎓 Academic & Teaching
 
-- 🧑🏾‍🏫 **Graduate Assistant** — Strathmore University, supporting undergraduate SE coursework & student supervision
+- 🧑🏾‍🏫 **
 - 🏫 **MSc Information Technology** — Strathmore University, Nairobi *(in progress)*
 - 🔬 Research on **Diabetic Retinopathy** detection with Explainable AI
 - 📚 Teaching **Software Engineering** principles and the full **SDLC lifecycle**
