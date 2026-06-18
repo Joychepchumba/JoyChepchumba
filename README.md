@@ -20,7 +20,7 @@
 
 ## 👩🏾‍💻 Who Am I
 
-I'm **Aicha Mbongo**, a **Graduate Assistant & MSc IT candidate** at Strathmore University, Nairobi — where I sit at the crossroads of **healthcare, machine learning, and explainability**.
+I'm **Joy Chepchumba**, a **Graduate Assistant & MSc IT candidate** at Strathmore University, Nairobi — where I sit at the crossroads of **healthcare, machine learning, and explainability**.
 
 My research applies **Explainable AI (XAI)** to the automated detection of **Diabetic Retinopathy** — a leading cause of preventable blindness — making AI decisions interpretable enough for clinicians to trust and act on.
 
@@ -63,7 +63,7 @@ Beyond research, I support undergraduate software engineering education, build f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AichaMbongo&theme=black-ice&hide_border=true&background=0f0c29&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Joychepchumba&theme=black-ice&hide_border=true&background=0f0c29&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ I'm always open to conversations about **e-health**, **AI for social good**, **r
   <a href="www.linkedin.com/in/aicha-myriam-mbongo-zindamoyen">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="azindamoyen@strathmore.edu">
+  <a href="joy.kipkemboi@strathmore.edu">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
