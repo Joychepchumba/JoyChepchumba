@@ -20,9 +20,9 @@
 
 ## 👩🏾‍💻 Who Am I
 
-I'm **Joy Chepchumba**, a **Graduate Assistant & MSc IT candidate** at Strathmore University, Nairobi — where I sit at the crossroads of **healthcare, machine learning, and explainability**.
+I'm **Joy Chepchumba**, a **4th year Student** at Strathmore University, Nairobi: where I study  **Bachelor of Informatics and Computer Science.**.
 
-My research applies **Explainable AI (XAI)** to the automated detection of **Diabetic Retinopathy** — a leading cause of preventable blindness — making AI decisions interpretable enough for clinicians to trust and act on.
+
 
 Beyond research, I support undergraduate software engineering education, build full-stack web applications, automate academic workflows with Google Workspace, and teach the **full SDLC lifecycle**.
 
