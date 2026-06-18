@@ -13,7 +13,7 @@
   <a href="https://www.strathmore.edu">
     <img src="https://img.shields.io/badge/Strathmore%20University-Nairobi%2C%20Kenya-2c5364?style=for-the-badge&logo=academia&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AichaMbongo&color=2c5364&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Joychepchumba&color=2c5364&style=for-the-badge&label=Profile+Views" />
 </p>
 
 ---
